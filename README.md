@@ -6,7 +6,7 @@ Greetings, intergalactic code voyager! 👋 I'm Rowland, the commander-in-chief 
 
 ## 🧙‍♂️ About Me
 
-I'm not your average coder – I'm a wizard of the bits and bytes, turning caffeine into code since '97. When I'm not busy talking to computers, you can catch me juggling rubber ducks, attempting interpretive dance with my keyboard, or chasing squirrels in the code forest.
+I'm not your average coder – I'm a wizard of the bits and bytes, turning caffeine into code. When I'm not busy talking to computers, you can catch me juggling rubber ducks, attempting interpretive dance with my keyboard, or chasing squirrels in the code forest.
 
 ## 💻 Tech Wizardry
 

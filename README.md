@@ -32,7 +32,7 @@ Feel the rhythm of my code incantations as I dance between these languages, crea
 
 ## 🎸 Jamming Sessions
 
-When I'm not crunching code, I'm jamming to the tunes of my favorite error messages or composing symphonies in binary. Check out my Spotify playlist for the ultimate coding soundtrack: <>
+When I'm not crunching code, I'm jamming to the tunes of my favorite error messages or composing symphonies in binary. Check out my Spotify playlist for the ultimate coding soundtrack: <https://open.spotify.com/playlist/1KEZygCkIhxUmmuVOFganQ>
 
 ## 🌟 Join the Constellation
 

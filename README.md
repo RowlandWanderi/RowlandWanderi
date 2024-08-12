@@ -2,40 +2,39 @@
 
 # 🚀 Welcome to the Code Carnival! 🎉
 
-Greetings, intergalactic code voyager! 👋 I'm Rowland, the commander-in-chief of the Syntax Spaceship 🚀, where every bug is just a misunderstood feature waiting to be discovered.
+## Hello! 👋 I'm Rowland.
 
-## 🧙‍♂️ About Me
+<!-- Social links -->
+### Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rowland-mwangi-54ab901b3)
+[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-%23FF813F?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://buymeacoffee.com/rowland)
 
-I'm not your average coder – I'm a wizard of the bits and bytes, turning caffeine into code. When I'm not busy talking to computers, you can catch me juggling rubber ducks, attempting interpretive dance with my keyboard, or chasing squirrels in the code forest.
+<!-- Languages and tools -->
+### 🛠 Languages and Tools:
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Brave](https://img.shields.io/badge/Brave-%23FB542B.svg?style=for-the-badge&logo=brave&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![Terminal](https://img.shields.io/badge/Terminal-%234D4D4D.svg?style=for-the-badge&logo=linux&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 💻 Tech Wizardry
 
-Welcome to my spellbook of enchanted languages and mystical frameworks! I weave my magic with:
+<!-- GitHub Stats -->
+### 📊 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RowlandWanderi&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RowlandWanderi&layout=compact&theme=radical)
 
-🧙‍♂️ **JavaScript:** Casting spells with the language of the web. From frontend incantations to backend sorcery, JavaScript is my wand of choice.
-
-🐍 **Python:** Unleashing the power of serpentine simplicity, Python helps me navigate the jungles of code with elegance and grace.
-
-📜 **SQL:** Delving into the ancient scrolls of databases, SQL allows me to communicate with data using the language of the data wizards.
-
-⚛️ **React:** Harnessing the energy of the virtual spirits, React lets me conjure dynamic and interactive user interfaces with finesse.
-
-🎨 **HTML & CSS:** The art of structuring and styling, HTML and CSS are the canvas and paintbrush that bring my digital masterpieces to life.
-
-Feel the rhythm of my code incantations as I dance between these languages, creating digital symphonies that resonate across the technological realms.
-
-## 🚀 Current Mission
-
-### 🌌 Mission Control: 
-
-### 🚀 Objective: To boldly code where no one has coded before and survive merge conflicts like a true space explorer.
 
 ## 🎸 Jamming Sessions
 
 When I'm not crunching code, I'm jamming to the tunes of my favorite error messages or composing symphonies in binary. Check out my Spotify playlist for the ultimate coding soundtrack: <https://open.spotify.com/playlist/1KEZygCkIhxUmmuVOFganQ>
 
-## 🌟 Join the Constellation
+## 🌟
 
-Feel free to wander through my celestial code garden, pluck a star or two, and don't forget to water the commit tree! If you have any questions, tech spells to exchange, or just want to discuss the meaning of life, open an issue and let's start a cosmic conversation.
+Feel free to wander through my repos and if you have any questions, feel free to reach out.
 
 May your code compile on the first try, and your debugging sessions be short and sweet! 🌌✨

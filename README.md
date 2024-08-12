@@ -1,7 +1,4 @@
 
-
-# 🚀 Welcome to the Code Carnival! 🎉
-
 ## Hello! 👋 I'm Rowland.
 
 <!-- Social links -->
